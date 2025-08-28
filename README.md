@@ -22,5 +22,7 @@ Public documentation, roadmap, and links for reviewers, partners, and grant prog
 - Milestones: ./MILESTONES.md  
 - Security policy: ./SECURITY.md  
 - Contributing: ./CONTRIBUTING.md
+- Resources: ./docs/resources.md
+
 
 If you are a foundation reviewer and need deeper technical info, email **team@rebellion.live**.
